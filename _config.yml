@@ -91,6 +91,10 @@ topics:
     web_url: https://github.com/gulpjs
     image_url: https://avatars0.githubusercontent.com/u/6200624?s=200&v=4
     
+  - name: Micro
+    web_url: https://github.com/zeit/micro
+    image_url: https://raw.githubusercontent.com/zeit/art/6451bc300e00312d970527274f316f9b2c07a27e/micro/logo.png
+    
   - name: Node.js
     web_url: https://github.com/topics/node
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
@@ -110,7 +114,3 @@ topics:
   - name: Contentful
     web_url: https://github.com/topics/contentful
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/contentful/contentful.png
-
-  - name: WordPress
-    web_url: https://github.com/topics/wordpress
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png
